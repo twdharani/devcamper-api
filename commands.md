@@ -30,8 +30,7 @@ node seeder -i
 node seeder -d
 
 
-###  npm i express-fileupload
-
+### npm i express-fileupload
 
 ### npm i bcryptjs jsonwebtoken
 
@@ -39,4 +38,4 @@ node seeder -d
 
 ###  npm i crypto
 
- ### npm i nodemailer
+### npm i nodemailer
